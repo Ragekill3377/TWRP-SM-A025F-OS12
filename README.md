@@ -170,7 +170,7 @@ rename omni to twrp​
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 #Build TWRP​
-**(If you face an error after build related to "expected expression" in 'graphics_fbdev.cpp", then replace the sprintf broghtness line with ‘‘‘snprintf(brightness, 4, "%03d", TW_MAX_BRIGHTNESS/2);‘‘‘**
+**(If you face an error after build related to "expected expression" in 'graphics_fbdev.cpp", then replace the sprintf brightness line with ‘‘‘snprintf(brightness, 4, "%03d", TW_MAX_BRIGHTNESS/2);‘‘‘**
 
 . build/envstup.sh
 lunch (select your device-eng)
