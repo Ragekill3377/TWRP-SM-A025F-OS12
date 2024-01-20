@@ -1,5 +1,5 @@
 **How to Build Basic TWRP for a Android Device Android 9+​**
-
+My XDA post:https://xdaforums.com/t/recovery-unnoficial-twrp-custom-recovery-for-sm-a025f-android-12.4651821/
 ​
 
 ###Note​###
